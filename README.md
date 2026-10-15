@@ -1,4 +1,5 @@
 # MERAZ
 
 
-hello Meraz is on 30th october
+
+hello Meraz is on 1st November
