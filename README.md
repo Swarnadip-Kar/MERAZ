@@ -2,4 +2,5 @@
 
 
 
-hello Meraz is on 1st November
+Hello Meraz in on 30th October only
+
